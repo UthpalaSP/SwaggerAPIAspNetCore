@@ -1,0 +1,14 @@
+E:\GitHub\SwaggerAPI\SwaggerAPI\bin\Debug\netcoreapp2.1\SwaggerAPI.deps.json
+E:\GitHub\SwaggerAPI\SwaggerAPI\bin\Debug\netcoreapp2.1\SwaggerAPI.runtimeconfig.json
+E:\GitHub\SwaggerAPI\SwaggerAPI\bin\Debug\netcoreapp2.1\SwaggerAPI.runtimeconfig.dev.json
+E:\GitHub\SwaggerAPI\SwaggerAPI\bin\Debug\netcoreapp2.1\SwaggerAPI.dll
+E:\GitHub\SwaggerAPI\SwaggerAPI\bin\Debug\netcoreapp2.1\SwaggerAPI.pdb
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.csprojAssemblyReference.cache
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.csproj.CoreCompileInputs.cache
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.RazorAssemblyInfo.cache
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.RazorAssemblyInfo.cs
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.AssemblyInfoInputs.cache
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.AssemblyInfo.cs
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.RazorTargetAssemblyInfo.cache
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.dll
+E:\GitHub\SwaggerAPI\SwaggerAPI\obj\Debug\netcoreapp2.1\SwaggerAPI.pdb
